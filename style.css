@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: rgb(52, 52, 52);
+    background: rgb(0, 255, 255);
     color: white;
     text-align: center;
     font-size: 64px;
@@ -19,7 +19,7 @@ footer {
     color: white;
     text-align: center;
     font-size: 32px;
-    background: rgb(52, 52, 52);
+    background: rgb(0, 255, 255);
 }
 
 .lr {
@@ -29,7 +29,6 @@ footer {
 }
 
 .lr p2 {
-    color: white;
     margin: 0;
-    margin-bottom: 20px;
+    margin-bottom: 26px;
 }
