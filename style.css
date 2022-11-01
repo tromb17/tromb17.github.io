@@ -7,10 +7,10 @@ body {
 }
 
 header {
-    background: rgb(0, 255, 255);
+    background: rgb(0, 200, 255);
     color: white;
     text-align: center;
-    font-size: 64px;
+    font-size: 48px;
 }
 
 footer {
@@ -19,7 +19,7 @@ footer {
     color: white;
     text-align: center;
     font-size: 32px;
-    background: rgb(0, 255, 255);
+    background: rgb(0, 200, 255);
 }
 
 .lr {
@@ -31,5 +31,5 @@ footer {
 .lr p2 {
     color: black;
     margin: 0;
-    margin-bottom: 26px;
+    margin-bottom: 40px;
 }
