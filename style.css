@@ -1,0 +1,33 @@
+body {
+    background: rgb(243, 244, 246);
+    margin: 0;
+    font-family: "Roboto", serif;
+    font-size: 32px;
+}
+
+header {
+    background: rgb(52, 52, 52);
+    color: white;
+    text-align: center;
+    font-size: 64px;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    background: rgb(52, 52, 52);
+}
+
+.lr {
+    margin-top: 10px;
+    white-space: pre-wrap;
+    border-bottom: solid rgb(52, 52, 52);
+}
+
+.lr p2 {
+    margin: 0;
+    margin-bottom: 20px;
+}
