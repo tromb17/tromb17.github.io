@@ -1,8 +1,9 @@
 body {
-    background: rgb(243, 244, 246);
-    margin: 0;
-    font-family: "TimesNewRoman", serif;
-    font-size: 32px;
+    background-image: url(https://wd9.ru/wp-content/uploads/2019/04/lan0002-2000x1200.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 header {
