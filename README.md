@@ -14,7 +14,7 @@
 Разработка простого веб-приложения:
 
 1. Репозиторий проекта доступен по ссылке: [StankinView_repo](https://github.com/fireru277/inet2022/wiki)
-2. Веб-страница с описанием проекта доступна по ссылке: [StankinView_landing_page]([https://github.com/fireru277/inet2022/wiki](https://profound-salmiakki-49c5d6.netlify.app/))
+2. Веб-страница с описанием проекта доступна по ссылке: [StankinView_landing_page](https://profound-salmiakki-49c5d6.netlify.app/)
 
 # Лабораторная работа №3
 Настройка локальной сети передачи данных:
